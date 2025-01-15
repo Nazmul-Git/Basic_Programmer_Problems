@@ -1,0 +1,47 @@
+*Mathematics Problems
+ 1.Prime Number Check: Write a program to check whether a given number is prime or not.
+ 2.Sum of Digits: Calculate the sum of the digits of a given number.
+ 3.Factorial Calculation: Find the factorial of a given number.
+ 4.Fibonacci Series: Generate the first N numbers in the Fibonacci sequence.
+ 5.LCM and GCD: Find the Least Common Multiple (LCM) and Greatest Common Divisor (GCD) of two numbers.
+ 6.Armstrong Number: Check if a given number is an Armstrong number.
+ 7.Number Reversal: Reverse the digits of a number, e.g., 123 becomes 321.
+ 8.Pythagorean Triplet: Check if three given numbers form a Pythagorean triplet.
+
+
+*Technical Problems (Programming Fundamentals)
+ 1.Palindrome String: Write a program to check if a given string is a palindrome.
+ 2.Array Reversal: Reverse an array in place without using extra space.
+ 3.Find Largest/Smallest in Array: Find the largest and smallest elements in an array.
+ 4.Duplicate Elements: Find and print all duplicate elements in an array.
+ 5.Sorting an Array: Implement Bubble Sort, Selection Sort, or Insertion Sort.
+ 6.String Reversal: Reverse a given string without using in-built functions.
+ 7. Count: Count the number of vowels in a string.
+ 8.Subarray Sum: Find a subarray in an array whose sum equals a given target.
+
+
+*Logical Problems
+ 1.FizzBuzz: Print numbers from 1 to 100. For multiples of 3, print "Fizz," for multiples of 5, print "Buzz," and for multiples of both, print "FizzBuzz."
+ 2.Number Guessing Game: Create a program that randomly generates a number and lets the user guess it.
+ 3.Anagram Check: Check if two strings are anagrams of each other.
+ 4.Count Characters: Count the frequency of each character in a string.
+ 5.Pattern Printing: Print patterns like a pyramid, diamond, or square using loops.
+ 6.Matrix Transpose: Compute the transpose of a given matrix.
+ 7.Leap Year Check: Determine whether a given year is a leap year or not.
+ 
+ 
+*Data Structure Basics
+ 1.Stack Operations: Implement stack operations (push, pop, peek) using arrays or lists.
+ 2.Queue Implementation: Create a queue and implement enqueue and dequeue operations.
+ 3.Linked List Basics: Create a singly linked list and perform insertion and deletion.
+ 4.Binary Search: Implement binary search on a sorted array.
+ 5.Hashing: Use a hash map to find the frequency of elements in an array.
+ 6.Two Sum Problem: Find two numbers in an array that add up to a specific target.
+
+
+*Projects for Beginners
+ 1.To-Do List: Create a to-do list application where users can add, edit, and delete tasks.
+ 2.Calculator: Build a simple calculator that performs basic operations like addition, subtraction, multiplication, and division.
+ 3.Unit Converter: Create a program that converts units (e.g., kilometers to miles, Celsius to Fahrenheit).
+ 4.Simple Chatbot: Build a chatbot that responds to basic user inputs with pre-defined replies.
+ 5.Number Game: Develop a game where the user has to guess a number in a given range.
